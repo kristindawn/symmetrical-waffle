@@ -9,3 +9,7 @@ If your waffles are not symmetrical:
 s = "Python syntax highlighting"
 print s
 ```
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
